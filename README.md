@@ -4,7 +4,7 @@
 - 😄 Pronouns: ela/dela
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vitoriariserio&theme=midnight-purple)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitoriariserio&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitoriariserio&layout=compact&theme=midnight-purple)
 
 
 
