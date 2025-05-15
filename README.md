@@ -1,4 +1,4 @@
-## Ola, meu nome é Vitória!
+## Olá, meu nome é Vitória!
 
 - 🌱 Estudando Python
 - 😄 Pronouns: ela/dela
