@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=999&color=9444F4&width=435&lines=%F0%9F%A7%99%F0%9F%8F%BB%E2%80%8D%E2%99%80%EF%B8%8F%7C+About+me)](https://git.io/typing-svg)
 
-I am a software engineering student dedicated to the application of technical knowledge in the analysis and resolution of complex problems, as well as in the development of innovative technologies capable of generating a positive societal impact.
+I am a software engineering student dedicated to the application of technical knowledge in the analysis and resolution of problems, as well as in the development of innovative technologies capable of generating a positive societal impact.
 
 #  My stats
 
