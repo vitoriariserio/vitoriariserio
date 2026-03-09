@@ -7,7 +7,7 @@ I am a software engineering student dedicated to the application of technical kn
 #  My stats
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/vitoriariserio?cardType=github&theme=midnight-purple&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
-![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=vitoriariserio&&&theme=midnight-purple&layout=compact)
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=vitoriariserio&include_all_commits&theme=midnight-purple&layout=compact)
 
 
 # 
