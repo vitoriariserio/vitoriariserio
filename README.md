@@ -1,5 +1,21 @@
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=9444F4"  />
+</div>
+
+###
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&duration=4952&pause=988&color=9444F4&center=true&width=435&lines=%F0%9F%A7%99+%7C+i'm+Vit%C3%B3ria)](https://git.io/typing-svg)
 
+###
+
+
+
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=9444F4"  />
+</div>
+
+###
 
 
 #  My stats
