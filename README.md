@@ -24,10 +24,10 @@
 ![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=vitoriariserio&include_all_commits&theme=midnight-purple&layout=compact)
 
 
-# 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=1000&color=8B5CF6&width=435&lines=%F0%9F%9B%A0%EF%B8%8F+%7C+Technologies)](https://git.io/typing-svg)
-
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=1000&color=8B5CF6&width=435&lines=%F0%9F%9B%A0%EF%B8%8F+%7C+Technologies">
+</p>
 
 <div >
 	<table>
