@@ -4,9 +4,9 @@
 
 ###
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&duration=4952&pause=988&color=8B5CF6&center=true&width=435&lines=%F0%9F%A7%99+%7C+i'm+Vit%C3%B3ria)](https://git.io/typing-svg)
-
-###
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&duration=4952&pause=988&color=8B5CF6&center=true&width=435&lines=%F0%9F%A7%99+%7C+i%27m+Vit%C3%B3ria" />
+</p>
 
 
 
