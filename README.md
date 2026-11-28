@@ -20,7 +20,7 @@
 
 #  My stats
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/vitoriariserio?cardType=github&theme=midnight-purple&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
+<a href="https://www.githubstats.tech"><img alt="vitoriariserio's GitHub Stats" src="https://www.githubstats.tech/api/card?username=vitoriariserio&theme=midnight-purple&size=small&show_name=0&show_grade=1&show_stars=1&show_commits=1&show_prs=1&show_issues=1&show_contributed=1&show_year=1&show_top_repo=1&show_profile=0&show_top_percent=1&contrib_stars=1" /></a>
 ![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=vitoriariserio&include_all_commits&theme=midnight-purple&layout=compact)
 
 
